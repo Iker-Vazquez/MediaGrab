@@ -1,0 +1,18 @@
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Python virtual environment folders
+venv/
+ENV/
+env/
+__pycache__/
+
+# Ignore other common files/folders
+.DS_Store  # macOS specific file
+*.log      # Log files
+*.bak      # Backup files
+
+# Ignore downloads floder
+downloads/

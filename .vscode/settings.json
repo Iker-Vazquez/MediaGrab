@@ -1,0 +1,4 @@
+{
+    "flake8.args": ["--max-line-length=120","--verbose"],
+    "workbench.colorCustomizations": { "editorLineNumber.foreground": "#00ad00"}
+}

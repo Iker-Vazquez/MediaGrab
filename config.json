@@ -1,0 +1,12 @@
+{
+    "debugConfig": {
+        "logFilePath": "./logs/logFile.log",
+        "debugLevel": 10,
+        "debugLevelDescription": "Logging levels: 10=DEBUG, 20=INFO, 30=WARNING, 40=ERROR, 50=CRITICAL"
+    },
+    "configuration": {
+        "AudioOnly": false, 
+        "AudioOnlyFormat": "mp3", 
+        "videoFormat": "mp4"
+    }
+}
