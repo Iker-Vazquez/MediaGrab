@@ -27,7 +27,7 @@ Installing Dependencies:
 2. Navigate to the project folder.
 
    Example:
-   git clone https://github.com/yourusername/YoutubeDownload.git
+   git clone https://github.com/Iker-Vazquez/MediaGrab?.git
    cd YoutubeDownload
 
 3. Run the `install.py` script to check and install dependencies:
